@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.sdgdeveloper.ShanStory-1"
+        versionCode = "1" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Shan Story</name>
+
+    <description>
+        Shan Story
+    </description>
+
+    <author href="https://build.phonegap.com" email="sdg.developer@gmail.com">
+        Hardeep Shoker 
+    </author>
+
+</widget>
